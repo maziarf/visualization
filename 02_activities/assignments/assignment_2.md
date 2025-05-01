@@ -10,8 +10,12 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      1. https://public.tableau.com/app/profile/dennis.kao/viz/ParalympicsParis2024/Map
+      2. https://www.reddit.com/r/coolguides/comments/1j2i106/a_cool_guide_on_how_google_and_amazon_make_money/#lightbox
 
+      1 is a bad example because it does not explain what is presented really. The shape channel (fire) that is used to show the spot on the map does not align with what the data actually is. Having a number of smaller map snippets also does not help with the visiualization. The data is a spatial data but searching on it is not easy and is not informative. 
+
+      2 is a good example of a visualtization. The snake charts do a good job in showing the share of the revenue for the two companies. The different colors that are used are helpful for distinguishing different sources. The area is used to show different amount of contribution which is also a good visual aid. 
 
 
 
@@ -21,8 +25,7 @@
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
-
+      1 can be improved by perhaps showing only one map, more clearly, like the one in the bottom right, and using better channels to represent the competitions. More data can then also be shown, like what different types of competition is being held at a particular location, for instance by using different shape of markers and different colors.
 
 
 
